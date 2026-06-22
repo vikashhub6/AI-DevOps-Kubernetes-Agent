@@ -1,4 +1,4 @@
-# AI Kubernetes Troubleshooting Agent - High Level Design (HLD)
+# AI Kubernetes Troubleshooting Agent - 
 
 ## Goal
 
